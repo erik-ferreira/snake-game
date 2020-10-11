@@ -10,4 +10,4 @@ Use as teclas a baixo para movimentar a cobra!
 
 ![teclas de direção](https://static.thenounproject.com/png/2082254-200.png)
 
-- [Acesse o jogo]() 
+- [Acesse o jogo](https://erik-ferreira.github.io/snake-game/) 
