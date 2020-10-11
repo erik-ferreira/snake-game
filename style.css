@@ -1,0 +1,50 @@
+* {
+    margin: 0;
+    padding: 0;
+    outline: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background: #ddd;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    padding: 40px;
+}
+
+header {
+    font-size: 48px;
+    font-weight: bold;
+    color: #1C1C1C;
+}
+
+div#div-score {
+    margin: 20px 0;
+    font-size: 24px;
+    font-weight: bold;
+}
+
+span#score {
+    color: #FF0000;
+}
+
+img {
+    margin-top: 20px;
+    width: 350px;
+    height: 200px;
+}
+
+a {
+    margin-top: 5px;
+    text-decoration: none;
+    font-size: 20px;
+    font-weight: bold;
+    color: #4169E1;
+    cursor: pointer;
+}
+
+a:hover {
+    color: #1E90FF;
+}
