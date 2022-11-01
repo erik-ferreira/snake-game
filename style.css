@@ -12,6 +12,7 @@ body {
   justify-content: center;
   flex-direction: column;
   padding: 40px;
+  font-family: "Roboto", sans-serif;
 }
 
 header {
